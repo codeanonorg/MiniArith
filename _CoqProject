@@ -1,1 +1,5 @@
 -R ./lib MiniArith
+./lib/Div.v
+./lib/List.v
+./lib/Logic.v
+./lib/Set.v
